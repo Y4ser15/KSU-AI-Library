@@ -1,4 +1,4 @@
-//operators:-
+//Operators:-
 سج = nl
 سطرجديد = nl
 صح = true
