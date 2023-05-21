@@ -168,9 +168,10 @@ loadsyntax "ArabicSyntax.ring"
 ارجع MakeDir(جملة)
 
 //-------------دالة حجم الملف----------------------------------
+/* same as "GetFileSize" or "حجم_الملف" in ArabicFileFunctions
 دالة حجم_الملف رقم_الملف_المرجعي
 ارجع Fsize(رقم_الملف_المرجعي)
-
+*/
 //-------------دالة قص جميع المسافات----------------------------------
 دالة قص_جميع_المسافات جملة
 ارجع TrimAll(جملة)
@@ -245,7 +246,7 @@ loadsyntax "ArabicSyntax.ring"
 
 //-------------دالة معلومات الوقت-------------------------
 //The cInformation(المعلومات) value could be: hour_24, hour_12, minutes, seconds, time, day_short, day_long, month_short, month_long, date_time, day, day_year, month_year, am_pm, week_year, day_week, date, year_century, year, time_zone, percent_sign.
-دالة معلومات الوقت المعلومات
+دالة معلومات_الوقت المعلومات
 ارجع TimeInfo(المعلومات)
 
 //-------------دالة ترتيب قائمة عشوائيا-------------------------
@@ -259,8 +260,4 @@ loadsyntax "ArabicSyntax.ring"
 //-------------دالة هل متساويان-------------------------
 دالة هل_متساويان غرض1, غرض2
 ارجع CheckEquality(غرض1, غرض2)
-
-
-
-
 
