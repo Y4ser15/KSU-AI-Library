@@ -1,5 +1,6 @@
-//Operators:-
+//operators:-
 سج = nl
+سطر = nl
 سطرجديد = nl
 صح = true
 خطا = false
@@ -32,11 +33,11 @@ changeringkeyword in في
 changeringkeyword load حمل//نزل
 changeringkeyword loadsyntax حمل_بناءالجمل//idk what to call it...
 changeringkeyword loop كرر
-changeringkeyword new جديد
+changeringkeyword new انشاء
 changeringkeyword next تالي
 changeringkeyword not ليس//نفي
 //changeringkeyword 'off' duplicate of 'end' used in switches
-//changeringkeyword 'ok' duplicate of 'end'
+//changeringkeyword 'ok' duplicate of 'end' 
 //changeringkeyword 'on' duplicate of 'case'
 changeringkeyword or او
 //changeringkeyword 'other' غيرذلك duplicate of 'else' used in switches
@@ -45,7 +46,7 @@ changeringkeyword private خاص//makes a private scope for the next code in a f
 //changeringkeyword 'put' duplicate of 'see'
 changeringkeyword return ارجع//اعد
 changeringkeyword see اطبع
-changeringkeyword step بمسافة//بمدى
+changeringkeyword step بمدى//بمسافة
 changeringkeyword switch انتقل//Not so sure...
 changeringkeyword to الى//حتى
 changeringkeyword try جرب
@@ -64,7 +65,6 @@ changeringkeyword endtry نهايةجرب//(doesn't turn as the same color as ot
 //changeringkeyword 'continue' duplicate of 'loop' (doesn't turn as the same color as other keyowrds for some reason)
 changeringkeyword changeringoperator غيرمعامل
 changeringkeyword changeringkeyword غيركلمةرئيسية//غيركلمةمفتاحية
-
 
 
 
