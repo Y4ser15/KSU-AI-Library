@@ -12,7 +12,7 @@ changeringkeyword and مع
 //changeringkeyword 'but' duplicate of 'elseif'
 //changeringkeyword 'bye' duplicate of 'exit'
 changeringkeyword call استدع
-changeringkeyword case حالة
+changeringkeyword case في_حالة
 changeringkeyword catch التقط//امسك
 changeringkeyword class عنصر//صنف
 //changeringkeyword 'def' duplicate of 'func'
@@ -34,7 +34,7 @@ changeringkeyword load حمل//نزل
 changeringkeyword loadsyntax حمل_بناءالجمل//idk what to call it...
 changeringkeyword loop كرر
 changeringkeyword new انشاء
-changeringkeyword next تالي
+changeringkeyword next التالي
 changeringkeyword not ليس//نفي
 //changeringkeyword 'off' duplicate of 'end' used in switches
 //changeringkeyword 'ok' duplicate of 'end' 
