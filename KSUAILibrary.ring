@@ -1,0 +1,7 @@
+loadsyntax "ArabicSyntax.ring"
+حمل "ArabicBFS.ring"
+حمل "ArabicDFS.ring"
+حمل "ArabicUCS.ring"
+حمل "ArabicIDS.ring"
+حمل "ArabicGreedy.ring"
+حمل "ArabicAstar.ring"
