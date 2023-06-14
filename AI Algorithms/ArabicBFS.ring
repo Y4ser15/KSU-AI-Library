@@ -1,8 +1,7 @@
-loadsyntax "ArabicSyntax.ring"
-حمل "ArabicFunctions.ring"
-حمل "ArabicClasses.ring"
+حمل "../ArabicFunctions.ring"
+حمل "../ArabicClasses.ring"
 حمل "AINode.ring"
-حمل "Number_problem.ring"
+حمل "../Tests/Number_problem.ring"
 
 زيارة = 0
 توليد = 0

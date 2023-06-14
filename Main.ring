@@ -1,8 +1,7 @@
-loadsyntax "ArabicSyntax.ring"
+
 حمل "ArabicFunctions.ring"
 حمل "ArabicClasses.ring"
 حمل "KSUAILibrary.ring"
-حمل "Number_problem.ring"
 
 
 المشكلة = انشاء مشكلة_رقم
@@ -33,8 +32,9 @@ loadsyntax "ArabicSyntax.ring"
 
 
 اطبع سطر + "مثال بحث أ-نجمة:-" + سطر//A* example
-//حل_المشكلة = بحث_أ_نجمة(المشكلة)
-طباعة_بحث_أ_نجمة(المشكلة)
+//حل_المشكلة = بحث_ا_نجمة(المشكلة)
+طباعة_بحث_ا_نجمة(المشكلة)
+
 
 
 اطبع سطر + "مثال بحث تسلق التلة:-" + سطر//Hill Climbing example

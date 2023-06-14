@@ -1,13 +1,13 @@
-loadsyntax "ArabicSyntax.ring"
-حمل "ArabicFunctions.ring"
-حمل "ArabicClasses.ring"
+
+حمل "../ArabicFunctions.ring"
+حمل "../ArabicClasses.ring"
 
 
 عنصر مشكلة_رقم
 
 	الحالة_البدائية = 0
 	التكلفة = 0
-	الهدف = 9
+	الهدف = 13
 	البعد = 0
 	عدد_الخطوات = 0
 

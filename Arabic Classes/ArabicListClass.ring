@@ -1,7 +1,5 @@
-Loadsyntax "ArabicSyntax.ring"
-حمل "ArabicFunctions.ring"
 
-
+حمل "../ArabicFunctions.ring"
 
 عنصر قائمة
 

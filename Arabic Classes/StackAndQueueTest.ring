@@ -1,6 +1,6 @@
-loadsyntax "ArabicSyntax.ring"
-حمل "ArabicFunctions.ring"
-حمل "ArabicClasses.ring"
+
+حمل "../ArabicFunctions.ring"
+حمل "../ArabicClasses.ring"
 
 اطبع"---------مثال طابور(Queue) --------" + سطر
 

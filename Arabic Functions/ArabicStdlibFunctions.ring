@@ -1,5 +1,4 @@
-Load "stdlib.ring"
-loadsyntax "ArabicSyntax.ring"
+حمل "stdlib.ring"
 
 //-------------دالة هل التطبيق مترجم----------------------------------
 هل_التطبيق_مترجم = IsAppCompiled()

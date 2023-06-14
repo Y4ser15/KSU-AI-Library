@@ -1,5 +1,5 @@
-Loadsyntax "ArabicSyntax.ring"
-حمل "ArabicFunctions.ring"
+
+حمل "../ArabicFunctions.ring"
 
 
 عنصر رصة من قائمة
